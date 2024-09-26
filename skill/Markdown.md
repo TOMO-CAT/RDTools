@@ -13,6 +13,8 @@
 
 #### 1. 行内公式
 
+代码：
+
 ```
 行内公式 $z = x^2 + y^2$ 行内公式
 ```
@@ -21,8 +23,7 @@
 
 行内公式 $z = x^2 + y^2$ 行内公式
 
-When $a \ne 0$, there are two solutions to $(ax^2 + bx + c = 0)$ and they are 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
+
  
 The Cauchy-Schwarz Inequality
  
